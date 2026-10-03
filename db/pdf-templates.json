@@ -1,0 +1,40 @@
+[
+  {
+    "id": "pdf-doc-1",
+    "name": "Tài Liệu Báo Cáo Khổ A4 (PDF)",
+    "description": "Tài liệu PDF có sẵn tiêu đề, khung viền và các ô gợi ý chèn ảnh",
+    "type": "pdf",
+    "width": 800,
+    "height": 1130,
+    "background": "#ffffff",
+    "documentTitle": "BÁO CÁO KHẢO SÁT & HÌNH ẢNH HIỆN TRƯỜNG",
+    "documentSubtitle": "Dự án: Đô Thị Xanh 2026 • Số tài liệu: DOC-8892",
+    "watermark": "SAMPLE PDF DOCUMENT",
+    "suggestedSlots": [
+      {
+        "id": "pdf-guide-1",
+        "label": "Vị trí gợi ý 1 (Ảnh 1)",
+        "x": 60,
+        "y": 180,
+        "width": 320,
+        "height": 260
+      },
+      {
+        "id": "pdf-guide-2",
+        "label": "Vị trí gợi ý 2 (Ảnh 2)",
+        "x": 420,
+        "y": 180,
+        "width": 320,
+        "height": 260
+      },
+      {
+        "id": "pdf-guide-3",
+        "label": "Vị trí gợi ý 3 (Toàn cảnh)",
+        "x": 60,
+        "y": 480,
+        "width": 680,
+        "height": 340
+      }
+    ]
+  }
+]

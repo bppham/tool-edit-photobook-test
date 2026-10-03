@@ -1,0 +1,37 @@
+[
+  {
+    "id": "img-1",
+    "name": "Bình minh Đà Lạt",
+    "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "aspectRatio": "landscape",
+    "category": "Phong cảnh"
+  },
+  {
+    "id": "img-2",
+    "name": "Chân dung Nghệ thuật",
+    "url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1200&q=80",
+    "aspectRatio": "portrait",
+    "category": "Chân dung"
+  },
+  {
+    "id": "img-3",
+    "name": "Kiến trúc Đô thị",
+    "url": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+    "aspectRatio": "landscape",
+    "category": "Kiến trúc"
+  },
+  {
+    "id": "img-4",
+    "name": "Cà phê & Đọc sách",
+    "url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
+    "aspectRatio": "portrait",
+    "category": "Lifestyle"
+  },
+  {
+    "id": "img-5",
+    "name": "Hoàng hôn Biển Phú Quốc",
+    "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+    "aspectRatio": "landscape",
+    "category": "Du lịch"
+  }
+]

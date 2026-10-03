@@ -1,0 +1,386 @@
+[
+  {
+    "id": "page-1",
+    "pageNumber": 1,
+    "title": "Bìa Trước (Front Cover)",
+    "type": "cover",
+    "headerTitle": "ALBUM KỶ NIỆM 2026",
+    "background": "#ffffff",
+    "slots": [
+      {
+        "id": "p1-s1",
+        "name": "Ảnh Bìa Chính",
+        "x": 60,
+        "y": 120,
+        "width": 680,
+        "height": 760,
+        "borderRadius": 16,
+        "label": "BÌA CHÍNH"
+      }
+    ],
+    "texts": [
+      {
+        "id": "p1-t1",
+        "text": "PHOTOBOOK COLLECTION • SPECIAL EDITION",
+        "x": 60,
+        "y": 920,
+        "fontSize": 16,
+        "color": "#0f172a",
+        "fontWeight": "700",
+        "zIndex": 50
+      },
+      {
+        "id": "p1-t2",
+        "text": "Lưu giữ trọn vẹn từng khoảnh khắc đáng nhớ nhất",
+        "x": 60,
+        "y": 955,
+        "fontSize": 13,
+        "color": "#64748b",
+        "fontWeight": "normal",
+        "zIndex": 50
+      }
+    ]
+  },
+  {
+    "id": "page-2",
+    "pageNumber": 2,
+    "title": "Trang 2 (Khởi Đầu Hành Trình)",
+    "type": "inner",
+    "headerTitle": "CHƯƠNG I: KHỞI ĐẦU HÀNH TRÌNH",
+    "background": "#f8fafc",
+    "slots": [
+      {
+        "id": "p2-s1",
+        "name": "Chân dung 01",
+        "x": 50,
+        "y": 140,
+        "width": 335,
+        "height": 840,
+        "borderRadius": 12,
+        "label": "ẢNH 01"
+      },
+      {
+        "id": "p2-s2",
+        "name": "Chân dung 02",
+        "x": 415,
+        "y": 140,
+        "width": 335,
+        "height": 840,
+        "borderRadius": 12,
+        "label": "ẢNH 02"
+      }
+    ],
+    "texts": [
+      {
+        "id": "p2-t1",
+        "text": "Những bước chân đầu tiên trên chặng đường rực rỡ ánh nắng.",
+        "x": 50,
+        "y": 1010,
+        "fontSize": 12,
+        "color": "#475569",
+        "fontWeight": "normal",
+        "zIndex": 50
+      }
+    ]
+  },
+  {
+    "id": "page-3",
+    "pageNumber": 3,
+    "title": "Trang 3 (Toàn Cảnh Điểm Nhấn)",
+    "type": "inner",
+    "headerTitle": "TOÀN CẢNH KHOẢNH KHẮC",
+    "background": "#ffffff",
+    "slots": [
+      {
+        "id": "p3-s1",
+        "name": "Ảnh Toàn Cảnh Lớn",
+        "x": 50,
+        "y": 140,
+        "width": 700,
+        "height": 520,
+        "borderRadius": 14,
+        "label": "TOÀN CẢNH"
+      },
+      {
+        "id": "p3-s2",
+        "name": "Chi tiết 01",
+        "x": 50,
+        "y": 690,
+        "width": 335,
+        "height": 330,
+        "borderRadius": 12,
+        "label": "CHI TIẾT 1"
+      },
+      {
+        "id": "p3-s3",
+        "name": "Chi tiết 02",
+        "x": 415,
+        "y": 690,
+        "width": 335,
+        "height": 330,
+        "borderRadius": 12,
+        "label": "CHI TIẾT 2"
+      }
+    ],
+    "texts": []
+  },
+  {
+    "id": "page-4",
+    "pageNumber": 4,
+    "title": "Trang 4 (Lưới 4 Ảnh Kỷ Niệm)",
+    "type": "inner",
+    "headerTitle": "CHƯƠNG II: NHỮNG KỶ NIỆM ĐẸP",
+    "background": "#f8fafc",
+    "slots": [
+      {
+        "id": "p4-s1",
+        "name": "Kỷ niệm 01",
+        "x": 50,
+        "y": 140,
+        "width": 335,
+        "height": 410,
+        "borderRadius": 12,
+        "label": "01"
+      },
+      {
+        "id": "p4-s2",
+        "name": "Kỷ niệm 02",
+        "x": 415,
+        "y": 140,
+        "width": 335,
+        "height": 410,
+        "borderRadius": 12,
+        "label": "02"
+      },
+      {
+        "id": "p4-s3",
+        "name": "Kỷ niệm 03",
+        "x": 50,
+        "y": 580,
+        "width": 335,
+        "height": 410,
+        "borderRadius": 12,
+        "label": "03"
+      },
+      {
+        "id": "p4-s4",
+        "name": "Kỷ niệm 04",
+        "x": 415,
+        "y": 580,
+        "width": 335,
+        "height": 410,
+        "borderRadius": 12,
+        "label": "04"
+      }
+    ],
+    "texts": [
+      {
+        "id": "p4-t1",
+        "text": "Mỗi nụ cười là một ký ức đong đầy yêu thương.",
+        "x": 50,
+        "y": 1015,
+        "fontSize": 12,
+        "color": "#64748b",
+        "fontWeight": "600",
+        "zIndex": 50
+      }
+    ]
+  },
+  {
+    "id": "page-5",
+    "pageNumber": 5,
+    "title": "Trang 5 (Góc Nhìn Nghệ Thuật)",
+    "type": "inner",
+    "headerTitle": "GÓC NHÌN ĐA CHIỀU",
+    "background": "#ffffff",
+    "slots": [
+      {
+        "id": "p5-s1",
+        "name": "Ảnh Trọng Tâm",
+        "x": 50,
+        "y": 140,
+        "width": 430,
+        "height": 850,
+        "borderRadius": 14,
+        "label": "CHÍNH"
+      },
+      {
+        "id": "p5-s2",
+        "name": "Góc phụ 01",
+        "x": 505,
+        "y": 140,
+        "width": 245,
+        "height": 410,
+        "borderRadius": 12,
+        "label": "PHỤ 1"
+      },
+      {
+        "id": "p5-s3",
+        "name": "Góc phụ 02",
+        "x": 505,
+        "y": 580,
+        "width": 245,
+        "height": 410,
+        "borderRadius": 12,
+        "label": "PHỤ 2"
+      }
+    ],
+    "texts": []
+  },
+  {
+    "id": "page-6",
+    "pageNumber": 6,
+    "title": "Trang 6 (Phong Cách Tạp Chí)",
+    "type": "inner",
+    "headerTitle": "CHƯƠNG III: CẢM XÚC LẮNG ĐỌNG",
+    "background": "#f8fafc",
+    "slots": [
+      {
+        "id": "p6-s1",
+        "name": "Ảnh Ngang Tiêu Điểm",
+        "x": 50,
+        "y": 140,
+        "width": 700,
+        "height": 410,
+        "borderRadius": 12,
+        "label": "TIÊU ĐIỂM"
+      },
+      {
+        "id": "p6-s2",
+        "name": "Ảnh Đôi 01",
+        "x": 50,
+        "y": 580,
+        "width": 335,
+        "height": 410,
+        "borderRadius": 12,
+        "label": "ẢNH 01"
+      },
+      {
+        "id": "p6-s3",
+        "name": "Ảnh Đôi 02",
+        "x": 415,
+        "y": 580,
+        "width": 335,
+        "height": 410,
+        "borderRadius": 12,
+        "label": "ẢNH 02"
+      }
+    ],
+    "texts": [
+      {
+        "id": "p6-t1",
+        "text": "MAGAZINE EDITORIAL • MOMENTS IN TIME",
+        "x": 50,
+        "y": 1015,
+        "fontSize": 11,
+        "color": "#94a3b8",
+        "fontWeight": "700",
+        "zIndex": 50
+      }
+    ]
+  },
+  {
+    "id": "page-7",
+    "pageNumber": 7,
+    "title": "Trang 7 (Lời Kết & Kỷ Niệm)",
+    "type": "inner",
+    "headerTitle": "LỜI KẾT & TRI ÂN",
+    "background": "#ffffff",
+    "slots": [
+      {
+        "id": "p7-s1",
+        "name": "Kỷ niệm sau cùng 01",
+        "x": 50,
+        "y": 140,
+        "width": 335,
+        "height": 500,
+        "borderRadius": 12,
+        "label": "ẢNH 01"
+      },
+      {
+        "id": "p7-s2",
+        "name": "Kỷ niệm sau cùng 02",
+        "x": 415,
+        "y": 140,
+        "width": 335,
+        "height": 500,
+        "borderRadius": 12,
+        "label": "ẢNH 02"
+      }
+    ],
+    "texts": [
+      {
+        "id": "p7-t1",
+        "text": "“Mỗi bức ảnh là một câu chuyện vô giá, lưu giữ vẹn nguyên những cảm xúc của tuổi trẻ và tình thân.”",
+        "x": 80,
+        "y": 720,
+        "fontSize": 15,
+        "color": "#1e293b",
+        "fontWeight": "600",
+        "zIndex": 50
+      },
+      {
+        "id": "p7-t2",
+        "text": "— PhotoFlow Photobook Special Edition 2026 —",
+        "x": 220,
+        "y": 800,
+        "fontSize": 12,
+        "color": "#6366f1",
+        "fontWeight": "700",
+        "zIndex": 50
+      }
+    ]
+  },
+  {
+    "id": "page-8",
+    "pageNumber": 8,
+    "title": "Bìa Sau (Back Cover)",
+    "type": "back",
+    "headerTitle": "PHOTOBOOK STUDIO",
+    "background": "#0f172a",
+    "slots": [
+      {
+        "id": "p8-s1",
+        "name": "Ảnh Biểu Tượng Bìa Sau",
+        "x": 250,
+        "y": 320,
+        "width": 300,
+        "height": 300,
+        "borderRadius": 150,
+        "label": "BIỂU TƯỢNG"
+      }
+    ],
+    "texts": [
+      {
+        "id": "p8-t1",
+        "text": "TDOU PHOTOFLOW STUDIO 2026",
+        "x": 230,
+        "y": 680,
+        "fontSize": 16,
+        "color": "#ffffff",
+        "fontWeight": "700",
+        "zIndex": 50
+      },
+      {
+        "id": "p8-t2",
+        "text": "Designed & Produced by TDOU Engine • Chuẩn in ấn chất lượng cao 300 DPI",
+        "x": 160,
+        "y": 720,
+        "fontSize": 11,
+        "color": "#94a3b8",
+        "fontWeight": "normal",
+        "zIndex": 50
+      },
+      {
+        "id": "p8-t3",
+        "text": "#ALBUM-AUTHENTIC-2026",
+        "x": 300,
+        "y": 880,
+        "fontSize": 12,
+        "color": "#6366f1",
+        "fontWeight": "700",
+        "zIndex": 50
+      }
+    ]
+  }
+]

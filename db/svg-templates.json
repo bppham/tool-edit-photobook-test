@@ -1,0 +1,134 @@
+[
+  {
+    "id": "svg-4-grid",
+    "name": "Bố cục 4 Ảnh - Lưới Hiện Đại",
+    "description": "Phù hợp cho album ảnh gia đình, sự kiện hoặc báo cáo 4 góc nhìn",
+    "type": "svg",
+    "width": 800,
+    "height": 1130,
+    "background": "#f8fafc",
+    "headerTitle": "PHOTO COLLECTION 2026",
+    "slots": [
+      {
+        "id": "slot-1",
+        "name": "Khung 1 (Góc trên trái)",
+        "x": 40,
+        "y": 100,
+        "width": 345,
+        "height": 450,
+        "shape": "rounded",
+        "borderRadius": 16,
+        "aspectRatio": "portrait",
+        "label": "Ảnh 01"
+      },
+      {
+        "id": "slot-2",
+        "name": "Khung 2 (Góc trên phải)",
+        "x": 415,
+        "y": 100,
+        "width": 345,
+        "height": 450,
+        "shape": "rounded",
+        "borderRadius": 16,
+        "aspectRatio": "portrait",
+        "label": "Ảnh 02"
+      },
+      {
+        "id": "slot-3",
+        "name": "Khung 3 (Góc dưới trái)",
+        "x": 40,
+        "y": 580,
+        "width": 345,
+        "height": 450,
+        "shape": "rounded",
+        "borderRadius": 16,
+        "aspectRatio": "portrait",
+        "label": "Ảnh 03"
+      },
+      {
+        "id": "slot-4",
+        "name": "Khung 4 (Góc dưới phải)",
+        "x": 415,
+        "y": 580,
+        "width": 345,
+        "height": 450,
+        "shape": "rounded",
+        "borderRadius": 16,
+        "aspectRatio": "portrait",
+        "label": "Ảnh 04"
+      }
+    ]
+  },
+  {
+    "id": "svg-5-magazine",
+    "name": "Bố cục 5 Ảnh - Tạp Chí Nghệ Thuật",
+    "description": "1 Ảnh tiêu điểm lớn phía trên và 4 ảnh phụ bên dưới",
+    "type": "svg",
+    "width": 800,
+    "height": 1130,
+    "background": "#ffffff",
+    "headerTitle": "EDITORIAL HIGHLIGHTS",
+    "slots": [
+      {
+        "id": "slot-1",
+        "name": "Ảnh Tiêu Điểm Hero",
+        "x": 40,
+        "y": 90,
+        "width": 720,
+        "height": 420,
+        "shape": "rounded",
+        "borderRadius": 18,
+        "aspectRatio": "landscape",
+        "label": "Hero Image"
+      },
+      {
+        "id": "slot-2",
+        "name": "Ảnh Phụ 1",
+        "x": 40,
+        "y": 540,
+        "width": 165,
+        "height": 220,
+        "shape": "rounded",
+        "borderRadius": 12,
+        "aspectRatio": "portrait",
+        "label": "01"
+      },
+      {
+        "id": "slot-3",
+        "name": "Ảnh Phụ 2",
+        "x": 225,
+        "y": 540,
+        "width": 165,
+        "height": 220,
+        "shape": "rounded",
+        "borderRadius": 12,
+        "aspectRatio": "portrait",
+        "label": "02"
+      },
+      {
+        "id": "slot-4",
+        "name": "Ảnh Phụ 3",
+        "x": 410,
+        "y": 540,
+        "width": 165,
+        "height": 220,
+        "shape": "rounded",
+        "borderRadius": 12,
+        "aspectRatio": "portrait",
+        "label": "03"
+      },
+      {
+        "id": "slot-5",
+        "name": "Ảnh Phụ 4",
+        "x": 595,
+        "y": 540,
+        "width": 165,
+        "height": 220,
+        "shape": "rounded",
+        "borderRadius": 12,
+        "aspectRatio": "portrait",
+        "label": "04"
+      }
+    ]
+  }
+]
